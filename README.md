@@ -24,11 +24,12 @@ This repository includes files with plain SQL that can be used to recreate a dat
 - Twitter: [@RitobrotoM3](https://twitter.com/RitobrotoM3)
 - LinkedIn: [Ritobroto Mukherjee](https://www.linkedin.com/in/ritobroto-mukherjee-519148ba/)
 
-👤 **Author2**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+👤 **Kiprotich Kimutai**
+
+- GitHub: [@Kimutai01](https://github.com/Kimutai01)
+- Twitter: [@Kimutai_01](https://twitter.com/Kimutai_01?s=09)
+- LinkedIn: [@kiprotichkimutai](https://www.linkedin.com/m/in/kimutai-kiprotich-1b5045216)
 
 ## 🤝 Contributing
 
